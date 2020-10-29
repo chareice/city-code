@@ -1,0 +1,16 @@
+{
+  "name": "city-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Chareice",
+  "license": "MIT",
+  "dependencies": {
+    "china-division": "^2.3.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.1"
+  },
+   "scripts": {
+    "test": "jest"
+  }
+}
